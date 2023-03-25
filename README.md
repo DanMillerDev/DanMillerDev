@@ -1,7 +1,7 @@
 # 🖥️ Dan Miller
 Developer focused on Augmented and Virtual reality. Mostly making small apps and prototypes. 
 
-Currently working as a Senior developer advocate focused on XR at [Unity Technologies](https://unity.com).
+Currently working as a Senior Software Engineer working on XR at [Unity Technologies](https://unity.com).
 <br >
 ## ⌨️ I’m currently working on 
 ### [AR Foundation Demos](https://github.com/Unity-Technologies/arfoundation-demos)
